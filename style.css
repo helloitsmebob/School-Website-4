@@ -1,0 +1,45 @@
+.travel_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
+
+.gradelevels_mainDiv hr {
+    width: 230px;
+}
+
+.gradelevels_mainDiv h5,
+.gradelevels_mainDiv p {
+    margin-left: 20px;
+}
+
+.athletics_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.athletics_head i {
+    float: right;
+}
+
+.athletics_text span {
+    color: #ff7700;
+}
+.newsevents_li{
+    margin-top: 13px;
+}
+.newsevents_li img{
+    border-radius: 25px;
+    height: 200px;
+    width: 300px;
+    
+}
